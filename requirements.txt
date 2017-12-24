@@ -1,0 +1,7 @@
+pandas==0.21.1
+numpy==1.13
+flask==0.12.2
+selenium==3.8.0
+lxml==4.1.1
+html5lib==1.0.1
+beautifulsoup4==4.6.0
